@@ -1,3 +1,6 @@
 # pdsei-2023-sebastian-sanchez
 # Hola
-# Mundo
+# INTEGRANTES:
+# * Polo Añorga Renato Juda
+# * Sanchez Rodriguez Sebastian Sanchez
+# * Ulloa Reyes Jaime Enrique
